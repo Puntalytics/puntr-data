@@ -1,2 +1,2 @@
 # puntr-data
-Data used by the puntr package
+Data used by the [`puntr`](https://github.com/Puntalytics/puntr) package
